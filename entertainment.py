@@ -54,3 +54,4 @@ movies = [
 
 # It opens the html webpage where we can watch the trailer for the movies.
 fresh_tomatoes.open_movies_page(movies)
+
