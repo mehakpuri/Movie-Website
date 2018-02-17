@@ -45,4 +45,4 @@ Your default browser should launch a new tab displaying the movie trailer websit
 ## Miscellaneous
 
 This README document is based on a template by SteveWooding in this
-Udacity forum [post](https://github.com/SteveWooding/movie-website/edit/master/README.md).
+Udacity forum [post](https://github.com/SteveWooding/movie-website/blob/master/README.md).
