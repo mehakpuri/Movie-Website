@@ -47,10 +47,10 @@ hijackings perpetrated by Dominic Toretto""",
                                 "fastandfurious.jpg",
                                 "https://www.youtube.com/watch?v=ZsJz2TJAPjw")
 
-# creating an array called movies
+# creating an array called movies for storing the list of movies
 movies = [
             toy_story, avatar, harry_potter,
             inception, hunger_games, fast_and_furious]
 
-# using the python program fresh tomatoes for opening our website
+# It opens the html webpage where we can watch the trailer for the movies.
 fresh_tomatoes.open_movies_page(movies)
